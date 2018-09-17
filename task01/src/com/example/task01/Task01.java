@@ -4,7 +4,7 @@ public class Task01 {
 
     public static String solution() {
 
-        return "Я думаю, быть программистом - это очень круто";
+        return "Я , быть программистом - это очень круто";
     }
 
     public static void main(String[] args) {
